@@ -5,5 +5,5 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/cecinuga?tab=repositories"><img src="assets/snake.svg" alt="snake"></a>
+<a href="https://github.com/cecinuga?tab=repositories"><img src="assets/github_backgrund.png" alt="elon musk planet"></a>
 </div>
