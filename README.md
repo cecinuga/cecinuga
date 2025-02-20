@@ -1,7 +1,7 @@
-<div align="center">
+<div align="left">
 <span>
-<h1>La Complessità sta negl'occhi di chi non ha capito.</h1>
-<h1>La Semplicità sta nell'occhio dello stolto.</h1>
+<h1><i>La <strong>Complessità</strong> sta negl'occhi di chi non ha capito.</i></h1>
+<h1><i>La <strong>Semplicità</strong> sta nell'occhio dello stolto.</i></h1>
 </span>
 </div>
 
