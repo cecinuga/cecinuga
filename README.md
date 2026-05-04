@@ -1,10 +1,13 @@
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/cecinuga?theme=dark&ext=heatmap)
+
+## My LeetCode Repo
+![LeetCode Repo](https://github.com/cecinuga/Leetcode)
+
 <div align="left">
 <span>
-<h1><i>La <strong>Complessità</strong> sta negl'occhi di chi non ha capito.</i></h1>
-<h1><i>La <strong>Semplicità</strong> sta nell'occhio dello stolto.</i></h1>
+<h1><i><strong>Complexity</strong> belong to the eye of who don't understand.</i></h1>
+<h1><i><strong>Semplicity</strong> belong to the eye of the fool.</i></h1>
 </span>
-</div>
-
-<div align="center">
-<a href="https://github.com/cecinuga?tab=repositories"><img src="assets/github_background.png" alt="elon musk planet"></a>
 </div>
