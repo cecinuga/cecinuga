@@ -1,9 +1,6 @@
-## 🧠 LeetCode Stats
+## 🧠 ![My LeetCode Repo](https://github.com/cecinuga/Leetcode)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/cecinuga?theme=dark&ext=heatmap)
-
-## My LeetCode Repo
-![LeetCode Repo](https://github.com/cecinuga/Leetcode)
 
 <div align="left">
 <span>
